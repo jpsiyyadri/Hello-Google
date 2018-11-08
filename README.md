@@ -6,6 +6,9 @@
     - Link : paste here <br>
 ```
 #### <code> Date: 08-11-2018 </code>
+  - ##### How to install mysql server in ubuntu aws instance
+    - Link : https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-16-04
+
   - ##### How to choose right data visualization for dash board? 
     - Link 1: https://www.datapine.com/blog/how-to-choose-the-right-data-visualization-types/ <br>
     - Link 2: https://support.geckoboard.com/hc/en-us/articles/115002929972-How-to-choose-the-right-data-visualization
