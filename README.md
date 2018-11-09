@@ -6,6 +6,8 @@
     - Link : paste here <br>
 ```
 #### <code> Date: 09-11-2018 </code>
+  - ##### BestTimeOfDay
+    - Link : http://www.mindpowernews.com/BestTimeOfDay.html
   - ##### Probability & Statistics with programming
     - Link : https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
   - ##### pip down grade
