@@ -6,6 +6,9 @@
     - Link : paste here <br>
 ```
 #### <code> Date: 09-11-2018 </code>
+  - ##### Flask Session
+    - Link : https://pythonhosted.org/Flask-Session/
+    - Link : https://realpython.com/flask-by-example-implementing-a-redis-task-queue/
   - ##### BestTimeOfDay
     - Link : http://www.mindpowernews.com/BestTimeOfDay.html
   - ##### Probability & Statistics with programming
