@@ -5,6 +5,9 @@
   - ##### Question | Query | Topic
     - Link : paste here <br>
 ```
+#### <code> Date: 09-11-2018 </code>
+  - ##### Probability & Statistics with programming
+    - Link : https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
 #### <code> Date: 08-11-2018 </code>
   - ##### How to install mysql server in ubuntu aws instance
     - Link : https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-16-04
