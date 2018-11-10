@@ -5,6 +5,9 @@
   - ##### Question | Query | Topic
     - Link : paste here <br>
 ```
+#### <code> Date: 10-11-2018 </code>
+  - ##### flask as ubuntu service
+    - Link : https://medium.com/@manivannan_data/how-to-deploy-the-flask-app-as-ubuntu-service-399c0adf3606
 #### <code> Date: 09-11-2018 </code>
   - ##### Ubuntu nohup command
     - https://stackoverflow.com/questions/17385794/how-to-get-the-process-id-to-kill-a-nohup-process
