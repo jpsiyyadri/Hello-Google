@@ -6,6 +6,10 @@
     - Link : paste here <br>
 ```
 #### <code> Date: 09-11-2018 </code>
+  - ##### Ubuntu nohup command
+    - https://stackoverflow.com/questions/17385794/how-to-get-the-process-id-to-kill-a-nohup-process
+      commmands : 1. to start use: nohup flask run or nohup gramex
+                  2. to stop: nohup kill -9 PID
   - ##### Flask Session
     - Link : https://pythonhosted.org/Flask-Session/
     - Link : https://realpython.com/flask-by-example-implementing-a-redis-task-queue/
