@@ -5,6 +5,10 @@
   - ##### Question | Query | Topic
     - Link : paste here <br>
 ```
+#### <code> Date: 11-11-2018 </code>
+  - ##### deploy flask application on VPC
+    - Link : https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
+    
 #### <code> Date: 10-11-2018 </code>
   - ##### flask as ubuntu service
     - Link : https://medium.com/@manivannan_data/how-to-deploy-the-flask-app-as-ubuntu-service-399c0adf3606
