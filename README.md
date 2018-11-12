@@ -6,6 +6,8 @@
     - Link : paste here <br>
 ```
 #### <code> Date: 12-11-2018 </code>
+  - ##### style guide for python code
+    - Link : https://www.python.org/dev/peps/pep-0008/#a-foolish-consistency-is-the-hobgoblin-of-little-minds
   - ##### my weakness as data scientist
     - Link : https://towardsdatascience.com/my-weaknesses-as-a-data-scientist-1310dab9f566
     
