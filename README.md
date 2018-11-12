@@ -5,6 +5,10 @@
   - ##### Question | Query | Topic
     - Link : paste here <br>
 ```
+#### <code> Date: 12-11-2018 </code>
+  - ##### my weakness as data scientist
+    - Link : https://towardsdatascience.com/my-weaknesses-as-a-data-scientist-1310dab9f566
+    
 #### <code> Date: 11-11-2018 </code>
   - ##### deploy flask application on VPC
     - Link : https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
