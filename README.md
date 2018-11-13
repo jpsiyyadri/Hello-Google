@@ -5,6 +5,9 @@
   - ##### Question | Query | Topic
     - Link : paste here <br>
 ```
+#### <code> Date: 13-11-2018 </code>
+  - ##### lodash template
+    - Link : https://codepen.io/matthewbeta/pen/ZGaYXW
 #### <code> Date: 12-11-2018 </code>
   - ##### style guide for python code
     - Link : https://www.python.org/dev/peps/pep-0008/#a-foolish-consistency-is-the-hobgoblin-of-little-minds
