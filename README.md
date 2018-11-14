@@ -8,6 +8,8 @@
 #### <code> Date: 14-11-2018 </code>
   - ##### Flask production
     - Link: http://flask.pocoo.org/docs/1.0/deploying/
+  - ##### Automatic pull git repo code to remote VPS
+    - Link: https://www.digitalocean.com/community/tutorials/how-to-set-up-automatic-deployment-with-git-with-a-vps
     
 #### <code> Date: 13-11-2018 </code>
   - ##### lodash template
