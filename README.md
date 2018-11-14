@@ -5,6 +5,10 @@
   - ##### Question | Query | Topic
     - Link : paste here <br>
 ```
+#### <code> Date: 14-11-2018 </code>
+  - ##### Flask production
+    - Link: http://flask.pocoo.org/docs/1.0/deploying/
+    
 #### <code> Date: 13-11-2018 </code>
   - ##### lodash template
     - Link : https://codepen.io/matthewbeta/pen/ZGaYXW
