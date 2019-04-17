@@ -5,6 +5,11 @@
   - ##### Question | Query | Topic
     - Link : paste here <br>
 ```
+#### <code> Date: 17-04-2019 </code>
+  - ##### Scrape PDF | Pyhton
+    - Link : https://schoolofdata.org/2013/08/16/scraping-pdfs-with-python-and-the-scraperwiki-module/ <br>
+    - Link : https://paulsolin.com/2014/06/27/scraping-pdfs-with-python/
+
 #### <code> Date: 14-11-2018 </code>
   - ##### Flask production
     - Link: http://flask.pocoo.org/docs/1.0/deploying/
