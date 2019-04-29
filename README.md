@@ -5,6 +5,11 @@
   - ##### Question | Query | Topic
     - Link : paste here <br>
 ```
+
+#### <code> Date: 29-04-2019 </code>
+  - ##### Software Development Practices | Google
+    - Link : https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf <br>
+
 #### <code> Date: 17-04-2019 </code>
   - ##### Scrape PDF | Pyhton
     - Link : https://schoolofdata.org/2013/08/16/scraping-pdfs-with-python-and-the-scraperwiki-module/ <br>
