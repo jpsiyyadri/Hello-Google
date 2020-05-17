@@ -5,6 +5,12 @@
   - ##### Question | Query | Topic
     - Link : paste here <br>
 ```
+```html
+<!--  mark down template for entry -->
+#### <code> Date: 17-05-2020 </code>
+  - ##### How to increase englich voabulary | English
+    - Link : https://wordcounter.net/blog/2014/01/22/1027_25-ways-to-improve-your-writing-vocabulary.html <br>
+```
 
 #### <code> Date: 29-04-2019 </code>
   - ##### Software Development Practices | Google
