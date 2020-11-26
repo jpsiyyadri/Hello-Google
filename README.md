@@ -5,6 +5,10 @@
   - ##### Question | Query | Topic
     - Link : paste here <br>
 ```
+#### <code> Date: 26-11-2020 </code>
+  - #####  CSS | Modern layouts in 1 line
+    - Link : https://www.youtube.com/watch?v=qm0IfG1GyZU&ab_channel=GoogleChromeDevelopers
+
 #### <code> Date: 17-05-2020 </code>
   - ##### Root words | English
     - Link : https://myvocabulary.com/dir-root-root_master
