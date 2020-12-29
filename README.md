@@ -5,6 +5,11 @@
   - ##### Question | Query | Topic
     - Link : paste here <br>
 ```
+#### <code> Date: 29-12-2020 </code>
+  - ##### d3 js add multi line text labels using tspan
+    - Link : https://jarrettmeyer.com/2018/06/05/svg-multiline-text-with-tspan
+
+
 #### <code> Date: 26-11-2020 </code>
   - #####  CSS | Modern layouts in 1 line
     - Link : https://www.youtube.com/watch?v=qm0IfG1GyZU&ab_channel=GoogleChromeDevelopers
