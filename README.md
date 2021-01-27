@@ -5,6 +5,10 @@
   - ##### Question | Query | Topic
     - Link : paste here <br>
 ```
+#### <code> Date: 27-01-2021 </code>
+  - ##### Regular expression | Date | Regxr
+    - Link : https://www.oreilly.com/library/view/regular-expressions-cookbook/9781449327453/ch04s04.html
+
 #### <code> Date: 29-12-2020 </code>
   - ##### d3 js add multi line text labels using tspan
     - Link : https://jarrettmeyer.com/2018/06/05/svg-multiline-text-with-tspan
